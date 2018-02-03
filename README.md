@@ -16,6 +16,10 @@ Ini adalah projek unutk belajar git bersama anak idev. komunitas developer di i-
 	$ git status
 	$ git add .
 	$ git status
+	
+	$ git config --global user.name MikeKadga
+	$ git config --global user.email MikeKadga@gmail.com
+
 	``` 
  
  * [ ] Melakukan penambahan file
